@@ -80,3 +80,4 @@ jobs:
       run: |
         echo "签到任务执行完成"
         echo "时间: $(Get-Date)"
+        curl "https://api.day.app/vwiLhHq5QsH6iCyrhsss6F/CCCheckInSuccess/helloWorld"
